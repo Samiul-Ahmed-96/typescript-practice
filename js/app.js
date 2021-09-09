@@ -1,4 +1,8 @@
 "use strict";
 console.log('hello from type');
-const number = [23, 54, 64, 63, 76];
+const number = 34;
 console.log(number);
+function add(num1, num2) {
+    return num1 + num2;
+}
+console.log(add(2, 3));
