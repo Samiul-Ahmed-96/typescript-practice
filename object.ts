@@ -9,6 +9,7 @@ console.log(player);
 const city: string = 'Dhaka';
 const fruits: string[] = ['mango', 'banana', 'apple'];
 
+//type declare
 type Person = {
     name: string,
     age: number,
