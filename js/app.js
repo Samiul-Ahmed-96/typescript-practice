@@ -2,7 +2,7 @@
 /*
 let money = 5000;
 let honey = '';
-let kony = false;
+let funny = false;
  */
 let money = 88;
 let honey = 'You are looking good';
